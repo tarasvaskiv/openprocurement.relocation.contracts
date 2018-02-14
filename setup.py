@@ -12,6 +12,7 @@ requires = [
 
 test_requires = requires + [
     'webtest',
+    'openprocurement.tender.core',
     'python-coveralls',
 ]
 
